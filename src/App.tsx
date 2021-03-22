@@ -5,7 +5,7 @@ function App() {
   return (
     <GlobalContext.Provider
       value={{
-        userInformation: { _id: "xxx", name: "Casana Bey" }
+        userInformation: { _id: "xxx", name: "Mark Bell" }
       }}
     >
       <div className="App">
